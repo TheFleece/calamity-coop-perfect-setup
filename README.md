@@ -1,6 +1,6 @@
 # 🏆 Calamity Infernum: Perfect Balance [RU]
 
-![Обложка](https://raw.githubusercontent.com/TheFleece/Calamity-Infernum-Perfect-Balance-Configs/main/Gemini_Generated_Image_cq3j6zcq3j6zcq3j.jpg)
+![Обложка](https://raw.githubusercontent.com/TheFleece/Calamity-Infernum-Perfect-Balance-Configs/main/Gemini_Generated_Image_syy90xsyy90xsyy9.png)
 
 **Самая стабильная и оптимизированная сборка для прохождения Calamity Infernum.** Никаких вылетов и лишнего мусора. Только контент и комфорт.
 
